@@ -1,6 +1,6 @@
 # OneHash-scraper
 <h3>onehash.py</h3>
-Scrapy spider for scraping dynamically generated esport betting information from web site *www.onehash.com*
+Scrapy spider for scraping dynamically generated esport betting information from web site www.onehash.com
 
 This script was created for educational purposes to demonstrate how to scrape data from dynamically
 generated web page using **Scrapy** and **Selenium webdriver**. Also, here you can find examples of
